@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<boutique>
+	<client>
+		<idClient>55</idClient>	
+		<nom>Diop</nom>
+		<prenom>Annie</prenom>
+		<adresse>Mboro</adresse>
+		<telephone>770000000</telephone>
+	</client>
+	<article>
+		<refArt>amdtgj</refArt>
+		<libelle>saucisson</libelle>
+		<prixU>1000</prixU>
+		<categorie>charcuterie</categorie>
+		
+	</articles>
+	<commande>
+		<numCommande>1</numCommande>
+		<quantite>3</quantite>
+		<refArt>amdtgj</refArt>
+		<idClient>55</idClient>
+		
+	</commande>
+</boutique>
